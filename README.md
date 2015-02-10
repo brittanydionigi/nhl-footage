@@ -1,3 +1,5 @@
+##WIP modifying & building off of BurntSuhi's [nflvid](https://github.com/BurntSushi/nflvid) python package to process NHL footage instead.
+
 `nflvid` is a Python package that facilates the processing of NFL game footage. 
 In particular, this library provides routines to do the following:
 
